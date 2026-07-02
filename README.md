@@ -3,7 +3,7 @@
 ## Identitas Mahasiswa
 
 - **Nama:** Maratus Sholihah
-- **NIM:** 24260053
+- **NIM:** 24260043
 - **Kelas:** Teknik Informatika A
 
 ## Deskripsi
